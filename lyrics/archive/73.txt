@@ -1,0 +1,28 @@
+
+	<li><p>Say something, I'm giving up on you</p></li>
+	<li><p>I'll be the one if you want me to.</p></li>
+	<li><p>Anywhere, I would have followed you</p></li>
+	<li><p>Say something, I'm giving up on you</p></li>
+	<li><p>And I</p></li>
+	<li><p>Am feeling so small</p></li>
+	<li><p>It was over my head</p></li>
+	<li><p>I know nothing at all</p></li>
+	<li><p>And I</p></li>
+	<li><p>Will stumble and fall</p></li>
+	<li><p>I'm still learning to love</p></li>
+	<li><p>Just starting to crawl</p></li>
+	<li><p>Say something, I'm giving up on you</p></li>
+	<li><p>I'm sorry that I couldn't get to you</p></li>
+	<li><p>Anywhere, I would have followed you</p></li>
+	<li><p>Say something, I'm giving up on you</p></li>
+	<li><p>And I</p></li>
+	<li><p>Will swallow my pride</p></li>
+	<li><p>You're the one that I love</p></li>
+	<li><p>And I'm saying goodbye</p></li>
+	<li><p>Say something, I'm giving up on you</p></li>
+	<li><p>And I'm sorry that I couldn't get to you</p></li>
+	<li><p>And anywhere, I would have followed you</p></li>
+	<li><p>Oh</p></li>
+	<li><p>Say something, I'm giving up on you</p></li>
+	<li><p>Say something, I'm giving up on you</p></li>
+	<li><p>Say something...</p></li>

@@ -1,0 +1,46 @@
+
+	<li><p>I'm gonna pick up the pieces,</p></li>
+	<li><p>And build a Lego house</p></li>
+	<li><p>If things go wrong we can knock it down</p></li>
+	<li><p>My three words have two meanings,</p></li>
+	<li><p>There's one thing on my mind</p></li>
+	<li><p>It's all for you</p></li>
+	<li><p>And it's dark in a cold December, but I've got you to keep me warm</p></li>
+	<li><p>If you're broken I will mend you and keep you sheltered from the storm that's raging on now</p></li>
+	<li><p>I'm out of touch, I'm out of love</p></li>
+	<li><p>I'll pick you up when you're getting down</p></li>
+	<li><p>And out of all these things I've done I think I love you better now</p></li>
+	<li><p>I'm out of sight, I'm out of mind</p></li>
+	<li><p>I'll do it all for you in time</p></li>
+	<li><p>And out of all these things I've done I think I love you better now</p></li>
+	<li><p>I'm gonna paint you by numbers</p></li>
+	<li><p>And colour you in</p></li>
+	<li><p>If things go right we can frame it, and put you on a wall</p></li>
+	<li><p>And it's so hard to say it but I've been here before</p></li>
+	<li><p>Now I'll surrender up my heart</p></li>
+	<li><p>And swap it for yours</p></li>
+	<li><p>I'm out of touch, I'm out of love</p></li>
+	<li><p>I'll pick you up when you're getting down</p></li>
+	<li><p>And out of all these things I've done I think I love you better now</p></li>
+	<li><p>I'm out of sight, I'm out of mind</p></li>
+	<li><p>I'll do it all for you in time</p></li>
+	<li><p>And out of all these things I've done I think I love you better now</p></li>
+	<li><p>Don't hold me down</p></li>
+	<li><p>I think my braces are breaking and it's more than I can take</p></li>
+	<li><p>And it's dark in a cold December, but I've got you to keep me warm</p></li>
+	<li><p>If you're broken I will mend you and keep you sheltered from the storm that's raging on now</p></li>
+	<li><p>I'm out of touch, I'm out of love</p></li>
+	<li><p>I'll pick you up when you get down</p></li>
+	<li><p>And out of all these things I've done I think I love you better now</p></li>
+	<li><p>I'm out of sight, I'm out of mind</p></li>
+	<li><p>I'll do it all for you in time</p></li>
+	<li><p>And out of all these things I've done I think I love you better now</p></li>
+	<li><p>I'm out of touch, I'm out of love</p></li>
+	<li><p>I'll pick you up when you get down</p></li>
+	<li><p>And out of all these things I've done I think I love you better now</p></li>
+	<li><p>I'm out of sight, I'm out of mind</p></li>
+	<li><p>I'll do it all for you in time</p></li>
+	<li><p>And out of all these things I've done I think I love you better now</p></li>
+	<li><p>I'm out of touch, I'm out of love</p></li>
+	<li><p>I'll pick you up when you get down</p></li>
+	<li><p>And out of all these things I've done I will love you better now</p></li>

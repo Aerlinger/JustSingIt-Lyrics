@@ -1,0 +1,76 @@
+
+	<li><p>According to you</p></li>
+	<li><p>I'm stupid</p></li>
+	<li><p>I'm useless</p></li>
+	<li><p>I can't do anything right</p></li>
+	<li><p>According to you</p></li>
+	<li><p>I'm difficult</p></li>
+	<li><p>Hard to please</p></li>
+	<li><p>Forever changing my mind</p></li>
+	<li><p>I'm a mess in a dress</p></li>
+	<li><p>Can't show up on time</p></li>
+	<li><p>Even if it would save my life</p></li>
+	<li><p>According to you</p></li>
+	<li><p>According to you</p></li>
+	<li><p>But according to him</p></li>
+	<li><p>I'm beautiful</p></li>
+	<li><p>Incredible</p></li>
+	<li><p>He can't get me out of his head</p></li>
+	<li><p>According to him</p></li>
+	<li><p>I'm funny</p></li>
+	<li><p>Irresistible</p></li>
+	<li><p>Everything he ever wanted</p></li>
+	<li><p>Everything is opposite</p></li>
+	<li><p>I don't feel like stopping it</p></li>
+	<li><p>So baby, tell me what I got to lose</p></li>
+	<li><p>He's into me for everything I'm not</p></li>
+	<li><p>According to you</p></li>
+	<li><p>According to you</p></li>
+	<li><p>I'm boring</p></li>
+	<li><p>I'm moody</p></li>
+	<li><p>You can't take me any place</p></li>
+	<li><p>According to you</p></li>
+	<li><p>I suck at telling jokes ‘cause I always give it away</p></li>
+	<li><p>I'm the girl with the worst attention span</p></li>
+	<li><p>You're the boy who puts up with that</p></li>
+	<li><p>According to you</p></li>
+	<li><p>According to you</p></li>
+	<li><p>But according to him</p></li>
+	<li><p>I'm beautiful</p></li>
+	<li><p>Incredible</p></li>
+	<li><p>He can't get me out of his head</p></li>
+	<li><p>According to him</p></li>
+	<li><p>I'm funny</p></li>
+	<li><p>Irresistible</p></li>
+	<li><p>Everything he ever wanted</p></li>
+	<li><p>Everything is opposite</p></li>
+	<li><p>I don't feel like stopping it</p></li>
+	<li><p>So baby, tell me what I got to lose</p></li>
+	<li><p>He's into me for everything I'm not</p></li>
+	<li><p>According to you</p></li>
+	<li><p>I need to feel appreciated,</p></li>
+	<li><p>Like I'm not hated, oh, no</p></li>
+	<li><p>Why can't you see me through his eyes?</p></li>
+	<li><p>It's too bad you're making me decide</p></li>
+	<li><p>According to me</p></li>
+	<li><p>You're stupid</p></li>
+	<li><p>You're useless</p></li>
+	<li><p>You can't do anything right</p></li>
+	<li><p>But according to him</p></li>
+	<li><p>I'm beautiful</p></li>
+	<li><p>Incredible</p></li>
+	<li><p>He can't get me out of his head</p></li>
+	<li><p>According to him</p></li>
+	<li><p>I'm funny</p></li>
+	<li><p>Irresistible</p></li>
+	<li><p>Everything he ever wanted</p></li>
+	<li><p>Everything is opposite</p></li>
+	<li><p>I don't feel like stopping it</p></li>
+	<li><p>Baby, tell me what I got to lose.</p></li>
+	<li><p>He's into me for everything I'm not</p></li>
+	<li><p>According to you</p></li>
+	<li><p>According to you</p></li>
+	<li><p>According to you</p></li>
+	<li><p>I'm stupid</p></li>
+	<li><p>I'm useless</p></li>
+	<li><p>I can't do anything right</p></li>

@@ -1,0 +1,61 @@
+
+	<li><p>Ah, ah, ah</p></li>
+	<li><p>Ah, ah, ah</p></li>
+	<li><p>You were in college</p></li>
+	<li><p>Working part time</p></li>
+	<li><p>Waitin tables</p></li>
+	<li><p>Left a small town, never looked back</p></li>
+	<li><p>I was a flight risk with a fear of fallin'</p></li>
+	<li><p>Wondering why we bother with love if it never lasts</p></li>
+	<li><p>I say, "Can you believe it?"</p></li>
+	<li><p>As we're lying on a couch</p></li>
+	<li><p>The moment I could see it, yes, yes</p></li>
+	<li><p>I can see it now</p></li>
+	<li><p>Do you remember we were sitting there by the water</p></li>
+	<li><p>You put your arm around me</p></li>
+	<li><p>For the first time</p></li>
+	<li><p>You made a rebel of a careless man's careful daughter</p></li>
+	<li><p>You are the best thing</p></li>
+	<li><p>That's ever been mine</p></li>
+	<li><p>Flash forward and we're taking on the world together</p></li>
+	<li><p>And there's a drawer of my things at your place</p></li>
+	<li><p>You learn my secrets and you figure out why I'm guarded</p></li>
+	<li><p>You say we'll never make my parents' mistakes</p></li>
+	<li><p>But we got bills to pay</p></li>
+	<li><p>We got nothin' figured out</p></li>
+	<li><p>When it was hard to take, yes, yes</p></li>
+	<li><p>This is what I thought about</p></li>
+	<li><p>Do you remember we were sitting there by the water</p></li>
+	<li><p>You put your arm around me</p></li>
+	<li><p>For the first time</p></li>
+	<li><p>You made a rebel of a careless man’s careful daughter</p></li>
+	<li><p>You are the best thing</p></li>
+	<li><p>That's ever been mine</p></li>
+	<li><p>Do you remember all the city lights on the water</p></li>
+	<li><p>You saw me start to believe for the first time</p></li>
+	<li><p>You made a rebel of a careless man's careful daughter</p></li>
+	<li><p>You are the best thing that’s ever been mine</p></li>
+	<li><p>Oh, oh, oh, oh</p></li>
+	<li><p>And I remember that fight, 2:30 a.m.</p></li>
+	<li><p>'Cause everything was slippin' right out of our hands</p></li>
+	<li><p>I ran out crying and you followed me out into the street</p></li>
+	<li><p>Braced myself for the goodbye</p></li>
+	<li><p>'Cause that's all I've ever known</p></li>
+	<li><p>And you took me by surprise</p></li>
+	<li><p>You said, "I'll never leave you alone”</p></li>
+	<li><p>You said, "I remember how we felt sittin' by the water</p></li>
+	<li><p>And every time I look at you</p></li>
+	<li><p>It's like the first time</p></li>
+	<li><p>I fell in love with a careless man's careful daughter</p></li>
+	<li><p>She is the best thing</p></li>
+	<li><p>That's ever been mine"</p></li>
+	<li><p>Hold on, make it last</p></li>
+	<li><p>Hold on, never turn back</p></li>
+	<li><p>You made a rebel of a careless man's careful daughter</p></li>
+	<li><p>You are the best thing</p></li>
+	<li><p>That's ever been mine</p></li>
+	<li><p>Do you believe it?</p></li>
+	<li><p>We're gonna make it now</p></li>
+	<li><p>And I can see it</p></li>
+	<li><p>Yeah, yeah</p></li>
+	<li><p>I can see it now.</p></li>

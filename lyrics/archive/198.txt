@@ -1,0 +1,123 @@
+
+	<li><p>I know that we are young</p></li>
+	<li><p>And I know that you may love me</p></li>
+	<li><p>But I just can't be with you like this anymore</p></li>
+	<li><p>Alejandro</p></li>
+	<li><p>Oh oh-oh oh oh-oh</p></li>
+	<li><p>Oh oh oh oh-oh</p></li>
+	<li><p>Oh oh-oh oh oh-oh</p></li>
+	<li><p>Oh oh-oh</p></li>
+	<li><p>She's got both hands</p></li>
+	<li><p>In her pocket</p></li>
+	<li><p>And she won't look at you (won't look at you)</p></li>
+	<li><p>She hides true love</p></li>
+	<li><p>En su bolsillo</p></li>
+	<li><p>She's got a halo around her finger</p></li>
+	<li><p>Around you</p></li>
+	<li><p>You know that I love you boy</p></li>
+	<li><p>Hot like Mexico</p></li>
+	<li><p>Rejoice</p></li>
+	<li><p>At this point I've gotta choose</p></li>
+	<li><p>Nothing to lose</p></li>
+	<li><p>Don't call my name</p></li>
+	<li><p>Don't call my name</p></li>
+	<li><p>Alejandro</p></li>
+	<li><p>I'm not your babe</p></li>
+	<li><p>I'm not your babe</p></li>
+	<li><p>Fernando</p></li>
+	<li><p>Don't wanna kiss</p></li>
+	<li><p>Don't wanna touch</p></li>
+	<li><p>Just smoke my cigarette and hush</p></li>
+	<li><p>Don't call my name</p></li>
+	<li><p>Don't call my name</p></li>
+	<li><p>Roberto</p></li>
+	<li><p>Alejandro</p></li>
+	<li><p>Alejandro</p></li>
+	<li><p>Ale-Alejandro</p></li>
+	<li><p>Ale-Alejandro</p></li>
+	<li><p>Alejandro</p></li>
+	<li><p>Alejandro</p></li>
+	<li><p>Ale-Alejandro</p></li>
+	<li><p>Ale-Alejandro</p></li>
+	<li><p>Stop</p></li>
+	<li><p>Please, just let me go</p></li>
+	<li><p>Alejandro</p></li>
+	<li><p>Just let me go</p></li>
+	<li><p>She's not broken</p></li>
+	<li><p>She's just a baby</p></li>
+	<li><p>But her boyfriend's like her dad</p></li>
+	<li><p>Just like a dad</p></li>
+	<li><p>And all those flames that</p></li>
+	<li><p>Burned before him</p></li>
+	<li><p>Now he's gotta firefight</p></li>
+	<li><p>Gotta cool the bad</p></li>
+	<li><p>You know that I love you boy</p></li>
+	<li><p>Hot like Mexico</p></li>
+	<li><p>Rejoice</p></li>
+	<li><p>At this point I've gotta choose</p></li>
+	<li><p>Nothing to lose</p></li>
+	<li><p>Don't call my name</p></li>
+	<li><p>Don't call my name</p></li>
+	<li><p>Alejandro</p></li>
+	<li><p>I'm not your babe</p></li>
+	<li><p>I'm not your babe</p></li>
+	<li><p>Fernando</p></li>
+	<li><p>Don't wanna kiss</p></li>
+	<li><p>Don't wanna touch</p></li>
+	<li><p>Just smoke my cigarette and hush</p></li>
+	<li><p>Don't call my name</p></li>
+	<li><p>Don't call my name</p></li>
+	<li><p>Roberto</p></li>
+	<li><p>Alejandro</p></li>
+	<li><p>Alejandro</p></li>
+	<li><p>Ale-Alejandro</p></li>
+	<li><p>Ale-Alejandro</p></li>
+	<li><p>Alejandro</p></li>
+	<li><p>Alejandro</p></li>
+	<li><p>Ale-Alejandro</p></li>
+	<li><p>Ale-Alejandro</p></li>
+	<li><p>Don't bother me</p></li>
+	<li><p>Don't bother me</p></li>
+	<li><p>Alejandro</p></li>
+	<li><p>Don't call my name</p></li>
+	<li><p>Don't call my name</p></li>
+	<li><p>Bye Fernando</p></li>
+	<li><p>I'm not your babe</p></li>
+	<li><p>I'm not your babe</p></li>
+	<li><p>Alejandro</p></li>
+	<li><p>Don't wanna kiss</p></li>
+	<li><p>Don't wanna touch</p></li>
+	<li><p>Fernando</p></li>
+	<li><p>Don't call my name</p></li>
+	<li><p>Don't call my name</p></li>
+	<li><p>Alejandro</p></li>
+	<li><p>I'm not your babe</p></li>
+	<li><p>I'm not your babe</p></li>
+	<li><p>Fernando</p></li>
+	<li><p>Don't wanna kiss</p></li>
+	<li><p>Don't wanna touch</p></li>
+	<li><p>Just smoke my cigarette and hush</p></li>
+	<li><p>Don't call my name</p></li>
+	<li><p>Don't call my name</p></li>
+	<li><p>Roberto</p></li>
+	<li><p>Alejandro</p></li>
+	<li><p>Alejandro</p></li>
+	<li><p>Ale-Alejandro</p></li>
+	<li><p>Ale-Alejandro</p></li>
+	<li><p>Alejandro</p></li>
+	<li><p>Alejandro</p></li>
+	<li><p>Ale-Alejandro</p></li>
+	<li><p>Ale-Alejandro</p></li>
+	<li><p>Don't call my name (Alejandro)</p></li>
+	<li><p>Don't call my name (Alejandro)</p></li>
+	<li><p>Alejandro</p></li>
+	<li><p>I'm not your babe (Ale-Alejandro)</p></li>
+	<li><p>I'm not your babe (Ale-Alejandro)</p></li>
+	<li><p>Fernando</p></li>
+	<li><p>Don't wanna kiss (Alejandro)</p></li>
+	<li><p>Don't wanna touch (Alejandro)</p></li>
+	<li><p>Just smoke my cigarette and hush</p></li>
+	<li><p>Don't call my name (Ale-Alejandro)</p></li>
+	<li><p>Don't call my name (Ale-Alejandro)</p></li>
+	<li><p>Roberto</p></li>
+	<li><p>Alejandro</p></li>

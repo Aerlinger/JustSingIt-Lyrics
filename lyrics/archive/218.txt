@@ -1,0 +1,64 @@
+
+	<li><p>We are the crowd</p></li>
+	<li><p>We're comin' out</p></li>
+	<li><p>Got my flash on, it's true</p></li>
+	<li><p>Need that picture of you</p></li>
+	<li><p>It's so magical</p></li>
+	<li><p>We'd be so fantástico</p></li>
+	<li><p>Leather and jeans</p></li>
+	<li><p>Garage glamorous</p></li>
+	<li><p>Not sure what it means</p></li>
+	<li><p>But this photo of us</p></li>
+	<li><p>It don't have a price</p></li>
+	<li><p>Ready for those flashing lights</p></li>
+	<li><p>'Cause you know that, baby, I</p></li>
+	<li><p>I'm your biggest fan</p></li>
+	<li><p>I'll follow you until you love me</p></li>
+	<li><p>Papa, paparazzi</p></li>
+	<li><p>Baby, there's no other superstar</p></li>
+	<li><p>You know that I'll be</p></li>
+	<li><p>Your papa, paparazzi</p></li>
+	<li><p>Promise I'll be kind</p></li>
+	<li><p>But I won't stop until that boy is mine</p></li>
+	<li><p>Baby, you'll be famous</p></li>
+	<li><p>Chase you down until you love me</p></li>
+	<li><p>Papa, paparazzi</p></li>
+	<li><p>I'll be your girl</p></li>
+	<li><p>Backstage at your show</p></li>
+	<li><p>Velvet ropes and guitars</p></li>
+	<li><p>Yeah, cause you're my rock star</p></li>
+	<li><p>In between the sets</p></li>
+	<li><p>Eyeliner and cigarettes</p></li>
+	<li><p>Shadow is burnt</p></li>
+	<li><p>Yellow dance and we turn</p></li>
+	<li><p>My lashes are dry</p></li>
+	<li><p>Purple teardrops I cry</p></li>
+	<li><p>It don't have a price</p></li>
+	<li><p>Lovin' you is Cherry Pie</p></li>
+	<li><p>'Cause you know that, baby, I</p></li>
+	<li><p>I'm your biggest fan</p></li>
+	<li><p>I'll follow you until you love me</p></li>
+	<li><p>Papa, paparazzi</p></li>
+	<li><p>Baby, there's no other superstar</p></li>
+	<li><p>You know that I'll be</p></li>
+	<li><p>Your papa, paparazzi</p></li>
+	<li><p>Promise I'll be kind</p></li>
+	<li><p>But I won't stop until that boy is mine</p></li>
+	<li><p>Baby, you'll be famous</p></li>
+	<li><p>Chase you down until you love me</p></li>
+	<li><p>Papa, paparazzi</p></li>
+	<li><p>Real good, we dance in the studio</p></li>
+	<li><p>Snap, snap to that sh** on the radio</p></li>
+	<li><p>Don't stop for anyone</p></li>
+	<li><p>We're plastic, but we still have fun</p></li>
+	<li><p>I'm your biggest fan</p></li>
+	<li><p>I'll follow you until you love me</p></li>
+	<li><p>Papa, paparazzi</p></li>
+	<li><p>Baby, there's no other superstar</p></li>
+	<li><p>You know that I'll be</p></li>
+	<li><p>Your papa, paparazzi</p></li>
+	<li><p>Promise I'll be kind</p></li>
+	<li><p>But I won't stop until that boy is mine</p></li>
+	<li><p>Baby, you'll be famous</p></li>
+	<li><p>Chase you down until you love me</p></li>
+	<li><p>Papa, paparazzi</p></li>

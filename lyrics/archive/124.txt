@@ -1,0 +1,96 @@
+
+	<li><p>There's a stranger in my bed</p></li>
+	<li><p>There's a pounding in my head</p></li>
+	<li><p>Glitter all over the room</p></li>
+	<li><p>Pink flamingos in the pool</p></li>
+	<li><p>I smell like a minibar</p></li>
+	<li><p>DJ's passed out in the yard</p></li>
+	<li><p>Barbie's on the barbecue</p></li>
+	<li><p>There's a hickie or a bruise</p></li>
+	<li><p>Pictures of last night</p></li>
+	<li><p>Ended up online</p></li>
+	<li><p>I'm screwed</p></li>
+	<li><p>Oh well</p></li>
+	<li><p>It's a black top blur</p></li>
+	<li><p>But I'm pretty sure it ruled</p></li>
+	<li><p>Damn</p></li>
+	<li><p>Last Friday night</p></li>
+	<li><p>Yeah we danced on tabletops</p></li>
+	<li><p>And we took too many shots</p></li>
+	<li><p>Think we kissed but I forgot</p></li>
+	<li><p>Last Friday night</p></li>
+	<li><p>Yeah we maxed our credit cards</p></li>
+	<li><p>And got kicked out of the bar</p></li>
+	<li><p>So we hit the boulevard</p></li>
+	<li><p>Last Friday night</p></li>
+	<li><p>We went streaking in the park</p></li>
+	<li><p>Skinny dipping in the dark</p></li>
+	<li><p>Then had a menage a trois</p></li>
+	<li><p>Last Friday night</p></li>
+	<li><p>Yeah I think we broke the law</p></li>
+	<li><p>Always say we're gonna stop</p></li>
+	<li><p>Woah</p></li>
+	<li><p>This Friday night</p></li>
+	<li><p>Do it all again</p></li>
+	<li><p>This Friday night</p></li>
+	<li><p>Do it all again</p></li>
+	<li><p>Trying to connect the dots</p></li>
+	<li><p>Don't know what to tell my boss</p></li>
+	<li><p>Think the city towed my car</p></li>
+	<li><p>Chandelier is on the floor</p></li>
+	<li><p>With my favorite party dress</p></li>
+	<li><p>Warrants out for my arrest</p></li>
+	<li><p>Think I need a ginger ale</p></li>
+	<li><p>That was such an epic fail</p></li>
+	<li><p>Pictures of last night</p></li>
+	<li><p>Ended up online</p></li>
+	<li><p>I'm screwed</p></li>
+	<li><p>Oh well</p></li>
+	<li><p>It's a blacked out blur</p></li>
+	<li><p>But I'm pretty sure it ruled</p></li>
+	<li><p>Damn</p></li>
+	<li><p>Last Friday night</p></li>
+	<li><p>Yeah we danced on table tops</p></li>
+	<li><p>And we took too many shots</p></li>
+	<li><p>Think we kissed but I forgot</p></li>
+	<li><p>Last Friday night</p></li>
+	<li><p>Yeah we maxed our credits card</p></li>
+	<li><p>And got kicked out of the bars</p></li>
+	<li><p>So we hit the boulevards</p></li>
+	<li><p>Last Friday night</p></li>
+	<li><p>We went streaking in the park</p></li>
+	<li><p>Skinny dipping in the dark</p></li>
+	<li><p>Then had a menage a trois</p></li>
+	<li><p>Last Friday night</p></li>
+	<li><p>Yeah I think we broke the law</p></li>
+	<li><p>Always say we're gonna stop</p></li>
+	<li><p>Oh whoa oh</p></li>
+	<li><p>This Friday night</p></li>
+	<li><p>Do it all again</p></li>
+	<li><p>Do it all again (this Friday night)</p></li>
+	<li><p>Do it all again</p></li>
+	<li><p>Do it all again (this Friday night)</p></li>
+	<li><p>T.G.I.F.</p></li>
+	<li><p>T.G.I.F.</p></li>
+	<li><p>T.G.I.F.</p></li>
+	<li><p>T.G.I.F.</p></li>
+	<li><p>T.G.I.F.</p></li>
+	<li><p>T.G.I.F.</p></li>
+	<li><p>Last Friday night</p></li>
+	<li><p>Yeah we danced on table tops</p></li>
+	<li><p>And we took too many shots</p></li>
+	<li><p>Think we kissed but I forgot</p></li>
+	<li><p>Last Friday night</p></li>
+	<li><p>Yeah we maxed our credit cards</p></li>
+	<li><p>And got kicked out of the bar</p></li>
+	<li><p>So we hit the boulevard</p></li>
+	<li><p>Last Friday night</p></li>
+	<li><p>We went streaking in the park</p></li>
+	<li><p>Skinny dipping in the dark</p></li>
+	<li><p>Then had a menage a trois</p></li>
+	<li><p>Last Friday night</p></li>
+	<li><p>Yeah I think we broke the law</p></li>
+	<li><p>Always say we're gonna stop</p></li>
+	<li><p>Oh-whoa-oh</p></li>
+	<li><p>This Friday night</p></li>
+	<li><p>Do it all again</p></li>

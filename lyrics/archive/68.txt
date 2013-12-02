@@ -1,0 +1,27 @@
+
+	<li><p>Some saw the sun</p></li>
+	<li><p>Some saw the smoke</p></li>
+	<li><p>Some heard the gun</p></li>
+	<li><p>Some bent the bow</p></li>
+	<li><p>Sometimes the wire</p></li>
+	<li><p>must tense for the note</p></li>
+	<li><p>Caught in the fire,</p></li>
+	<li><p>Say oh</p></li>
+	<li><p>We're about to explode</p></li>
+	<li><p>Carry your world</p></li>
+	<li><p>I'll carry your world</p></li>
+	<li><p>Carry your world</p></li>
+	<li><p>I'll carry your world</p></li>
+	<li><p>Some far away</p></li>
+	<li><p>Some search for gold</p></li>
+	<li><p>Some dragon to slay</p></li>
+	<li><p>Heaven we hope</p></li>
+	<li><p>is just up the road</p></li>
+	<li><p>Show me the way, Lord,</p></li>
+	<li><p>because I am about to explode</p></li>
+	<li><p>Carry your world,</p></li>
+	<li><p>I'll carry your world</p></li>
+	<li><p>Carry your world</p></li>
+	<li><p>I'll carry your world</p></li>
+	<li><p>Carry your world</p></li>
+	<li><p>and all you hurt </p></li>

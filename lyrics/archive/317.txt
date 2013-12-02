@@ -1,0 +1,40 @@
+
+	<li><p>This town is colder now</p></li>
+	<li><p>I think it's sick of us</p></li>
+	<li><p>It's time to make our move</p></li>
+	<li><p>I'm shaking off the rust</p></li>
+	<li><p>I've got my heart set on anywhere but here</p></li>
+	<li><p>I'm staring down myself, counting up the years</p></li>
+	<li><p>Steady hands, just take the wheel</p></li>
+	<li><p>And every glance is killing me</p></li>
+	<li><p>Time to make one last appeal for the life I lead</p></li>
+	<li><p>Stop and stare</p></li>
+	<li><p>I think I'm moving but I go nowhere</p></li>
+	<li><p>Yeah, I know that everyone gets scared</p></li>
+	<li><p>But I've become what I can't be, oh</p></li>
+	<li><p>Stop and stare</p></li>
+	<li><p>You start to wonder why you're here, not there</p></li>
+	<li><p>And you'd give anything to get what's fair</p></li>
+	<li><p>But fair ain't what you really need</p></li>
+	<li><p>Oh, can you see what I see</p></li>
+	<li><p>They're trying to come back, all my senses push</p></li>
+	<li><p>Untie the weight bags, I never thought I could</p></li>
+	<li><p>Steady feet, don't fail me now</p></li>
+	<li><p>Gonna run ‘til you can't walk</p></li>
+	<li><p>Something pulls my focus out</p></li>
+	<li><p>And I'm standing down</p></li>
+	<li><p>Stop and stare</p></li>
+	<li><p>I think I'm moving but I go nowhere</p></li>
+	<li><p>Yeah, I know that everyone gets scared</p></li>
+	<li><p>But I've become what I can't be, oh</p></li>
+	<li><p>Stop and stare</p></li>
+	<li><p>You start to wonder why you're here not there</p></li>
+	<li><p>And you'd give anything to get what's fair</p></li>
+	<li><p>But fair ain't what you really need</p></li>
+	<li><p>Oh, you don't need</p></li>
+	<li><p>What you need, what you need</p></li>
+	<li><p>Stop and stare</p></li>
+	<li><p>I think I'm moving but I go nowhere</p></li>
+	<li><p>Yeah, I know that everyone gets scared</p></li>
+	<li><p>But I've become what I can't be</p></li>
+	<li><p>Oh, do you see what I see</p></li>

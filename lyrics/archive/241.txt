@@ -1,0 +1,60 @@
+
+	<li><p>Well, the truth</p></li>
+	<li><p>Well, it hurts to say</p></li>
+	<li><p>I'm gonna pack up my bags</p></li>
+	<li><p>And I'm gonna go away</p></li>
+	<li><p>I'm gonna split</p></li>
+	<li><p>I can't stand it</p></li>
+	<li><p>I'm gonna give it up and quit</p></li>
+	<li><p>Ain't never comin’ back</p></li>
+	<li><p>Broke up before I get to go and I got to say</p></li>
+	<li><p>I know you used to love me</p></li>
+	<li><p>But that was yesterday</p></li>
+	<li><p>And the truth I won’t fight it</p></li>
+	<li><p>When the love starts burnin’</p></li>
+	<li><p>You gots to do what’s right</p></li>
+	<li><p>Whoa, lover, lover, lover</p></li>
+	<li><p>You don't treat me no good no more</p></li>
+	<li><p>Whoa, lover, lover, lover</p></li>
+	<li><p>You don't treat me no good no more</p></li>
+	<li><p>Well, the truth</p></li>
+	<li><p>Yeah, it hurts to say</p></li>
+	<li><p>I'm gonna pack up my bags</p></li>
+	<li><p>And I'm gonna go away</p></li>
+	<li><p>I'm gonna split</p></li>
+	<li><p>I can’t stand it</p></li>
+	<li><p>I'm gonna give it up and quit</p></li>
+	<li><p>Ain't never comin’ back</p></li>
+	<li><p>Broke up before I get to go and I got to say</p></li>
+	<li><p>There was a time oh woman</p></li>
+	<li><p>When you used to shake it for me</p></li>
+	<li><p>Now all you do is treat me cold</p></li>
+	<li><p>Ain't gonna take it no more</p></li>
+	<li><p>Gonna walk out the door</p></li>
+	<li><p>Lover, lover, lover</p></li>
+	<li><p>You don’t treat me no good no more</p></li>
+	<li><p>No, no, more, more, more</p></li>
+	<li><p>Whoa, lover, lover, lover</p></li>
+	<li><p>You don't treat me no good no more</p></li>
+	<li><p>Yeah, yeah, yeah</p></li>
+	<li><p>Well I went with you on a starry night</p></li>
+	<li><p>And I’m hurtin' too bad ‘cause you don’t treat me right</p></li>
+	<li><p>Woman, oh woman</p></li>
+	<li><p>You know I love you so</p></li>
+	<li><p>You're just so mean to me baby</p></li>
+	<li><p>I’m walkin’ out the door</p></li>
+	<li><p>Lover, oh lover</p></li>
+	<li><p>I know you used to love me in every way</p></li>
+	<li><p>But now I'm givin’ up</p></li>
+	<li><p>And I'm tired of cryin’, babe</p></li>
+	<li><p>I can't stand it no longer</p></li>
+	<li><p>It hurts me to say</p></li>
+	<li><p>I'm packin’ up my bags and goin’ far away</p></li>
+	<li><p>Lover, lover, lover</p></li>
+	<li><p>You don't treat me good no more</p></li>
+	<li><p>Lover, lover, lover</p></li>
+	<li><p>You don't treat me good no more</p></li>
+	<li><p>Lover, lover, lover</p></li>
+	<li><p>You don't treat me good no more</p></li>
+	<li><p>Lover, lover, lover</p></li>
+	<li><p>You don't treat me good no more</p></li>

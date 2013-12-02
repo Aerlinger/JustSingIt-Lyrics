@@ -1,0 +1,33 @@
+
+	<li><p>In the end, as we fade into the night,</p></li>
+	<li><p>Who will tell the story of your life?</p></li>
+	<li><p>In the end, as my soul's laid to rest,</p></li>
+	<li><p>What is left of my body?</p></li>
+	<li><p>Or am I just a shell?</p></li>
+	<li><p>I have fought,</p></li>
+	<li><p>And with flesh and blood, I commanded an army.</p></li>
+	<li><p>Through it all, I have given my heart for a moment of glory.</p></li>
+	<li><p>In the end, as we fade into the night,</p></li>
+	<li><p>Who will tell the story of your life?</p></li>
+	<li><p>And who will remember your last goodbye?</p></li>
+	<li><p>Cuz it's the end and I'm not afraid,</p></li>
+	<li><p>I'm not afraid to die.</p></li>
+	<li><p>Born a saint.</p></li>
+	<li><p>Though, with every sin I still want to be holy.</p></li>
+	<li><p>I will live again.</p></li>
+	<li><p>Who we are isn't how we live,</p></li>
+	<li><p>We are more than our bodies.</p></li>
+	<li><p>If I fall, I will rise back up and relive my glory.</p></li>
+	<li><p>In the end, as we fade into the night,</p></li>
+	<li><p>Who will tell the story of your life?</p></li>
+	<li><p>And who will remember your last goodbye?</p></li>
+	<li><p>Cuz it's the end and I'm not afraid,</p></li>
+	<li><p>I'm not afraid to die.</p></li>
+	<li><p>In the end, as we fade into the night.</p></li>
+	<li><p>Who will tell the story of your life?</p></li>
+	<li><p>And who will remember your last goodbye?</p></li>
+	<li><p>Cuz it's the end, and I'm not afraid,</p></li>
+	<li><p>I'm not afraid to die.</p></li>
+	<li><p>Who will remember this last goodbye?</p></li>
+	<li><p>Cuz it's the end, and I'm not afraid,</p></li>
+	<li><p>I'm not afraid to die.</p></li>

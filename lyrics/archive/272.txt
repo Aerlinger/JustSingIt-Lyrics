@@ -1,0 +1,49 @@
+
+	<li><p>I used to rule the world</p></li>
+	<li><p>Seas would rise when I gave the word</p></li>
+	<li><p>Now in the morning I sleep alone</p></li>
+	<li><p>Sweep the streets I used to own</p></li>
+	<li><p>I used to roll the dice</p></li>
+	<li><p>Feel the fear in my enemies' eyes</p></li>
+	<li><p>Listen as the crowd would sing</p></li>
+	<li><p>"Now the old king is dead, long live the king"</p></li>
+	<li><p>One minute I held the key</p></li>
+	<li><p>Next the walls were closed on me</p></li>
+	<li><p>And I discovered that my castles stand</p></li>
+	<li><p>Upon pillars of salt, and pillars of sand</p></li>
+	<li><p>I hear Jerusalem bells a'ringing</p></li>
+	<li><p>Roman Cavalry choirs are singing</p></li>
+	<li><p>Be my mirror, my sword and shield</p></li>
+	<li><p>My missionaries in a foreign field</p></li>
+	<li><p>For some reason I can't explain</p></li>
+	<li><p>Once you'd gone it was never</p></li>
+	<li><p>Never an honest word</p></li>
+	<li><p>And That was when I ruled the world</p></li>
+	<li><p>It was the wicked and wild wind</p></li>
+	<li><p>Blew down the doors to let me in</p></li>
+	<li><p>Shattered windows and the sound of drums</p></li>
+	<li><p>People couldn't believe what I'd become</p></li>
+	<li><p>Revolutionaries wait</p></li>
+	<li><p>For my head on a silver plate</p></li>
+	<li><p>Just a puppet on a lonely string</p></li>
+	<li><p>Oh, who would ever wanna be king</p></li>
+	<li><p>I hear Jerusalem bells a'ringing</p></li>
+	<li><p>Roman Cavalry choirs are singing</p></li>
+	<li><p>Be my mirror, my sword and shield</p></li>
+	<li><p>My missionaries in a foreign field</p></li>
+	<li><p>For some reason I can't explain</p></li>
+	<li><p>I know St. Peter won't call my name</p></li>
+	<li><p>Never an honest word</p></li>
+	<li><p>But that was when I ruled the world</p></li>
+	<li><p>Whoa</p></li>
+	<li><p>Whoa</p></li>
+	<li><p>Whoa</p></li>
+	<li><p>Whoa</p></li>
+	<li><p>(Whoa) Here Jerusalem bells a'ringing</p></li>
+	<li><p>(Whoa) Roman Cavalry choirs are singing</p></li>
+	<li><p>(Whoa) Be my mirror, my sword and shield</p></li>
+	<li><p>(Whoa) My missionaries in a foreign field</p></li>
+	<li><p>(Whoa) For some reason I can't explain</p></li>
+	<li><p>(Whoa) I know St. Peter won't call my name</p></li>
+	<li><p>Never an honest word</p></li>
+	<li><p>But that was when I ruled the world</p></li>

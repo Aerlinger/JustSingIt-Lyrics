@@ -1,0 +1,82 @@
+
+	<li><p>Oh yeah</p></li>
+	<li><p>Oh yeah</p></li>
+	<li><p>I've been looking under rocks and breaking locks</p></li>
+	<li><p>Just tryna find ya</p></li>
+	<li><p>I've been like a maniac insomniac</p></li>
+	<li><p>Five steps behind you</p></li>
+	<li><p>Tell them other girls, they can hit the exit</p></li>
+	<li><p>Check, please</p></li>
+	<li><p>‘Cause I finally found the girl of my dreams</p></li>
+	<li><p>Much more than a Grammy award</p></li>
+	<li><p>That's how much you mean to me</p></li>
+	<li><p>You could be my it girl</p></li>
+	<li><p>Baby, you're the shit, girl</p></li>
+	<li><p>Lovin' you could be a crime</p></li>
+	<li><p>Crazy how we fit, girl</p></li>
+	<li><p>This is it, girl</p></li>
+	<li><p>Give me 25 to life</p></li>
+	<li><p>I just wanna rock all night long</p></li>
+	<li><p>And put you in the middle of my spotlight</p></li>
+	<li><p>You could be my it girl</p></li>
+	<li><p>You're my biggest hit, girl</p></li>
+	<li><p>Let me play it loud</p></li>
+	<li><p>Let me play it loud like, oh, oh, oh, oh</p></li>
+	<li><p>Let me play it loud</p></li>
+	<li><p>Let me play it loud like oh, oh, oh, oh</p></li>
+	<li><p>Let me play it loud</p></li>
+	<li><p>You can't help but turn them heads</p></li>
+	<li><p>Knockin' them dead</p></li>
+	<li><p>Dropping like flies around you</p></li>
+	<li><p>If I get your body close, not letting go</p></li>
+	<li><p>Hoping you're about to</p></li>
+	<li><p>Tell them other guys they can lose your number</p></li>
+	<li><p>You're done</p></li>
+	<li><p>They don't get another shot ‘cause you're love drunk</p></li>
+	<li><p>Like a TV show playing reruns</p></li>
+	<li><p>Every chance I get</p></li>
+	<li><p>I'm a turn you on</p></li>
+	<li><p>You could be my it girl</p></li>
+	<li><p>Baby, you're the shit, girl</p></li>
+	<li><p>Lovin' you could be a crime</p></li>
+	<li><p>Crazy how we fit, girl</p></li>
+	<li><p>This is it, girl</p></li>
+	<li><p>Give me 25 to life</p></li>
+	<li><p>I just wanna rock all night long</p></li>
+	<li><p>And put you in the middle of my spotlight</p></li>
+	<li><p>You could be my it girl</p></li>
+	<li><p>You're my biggest hit, girl</p></li>
+	<li><p>Let me play it loud</p></li>
+	<li><p>Let me play it loud like oh, oh, oh, oh</p></li>
+	<li><p>Let me play it loud</p></li>
+	<li><p>Let me play it loud like oh, oh, oh, oh</p></li>
+	<li><p>Let me play it loud</p></li>
+	<li><p>Can't seem to stop you from running, running</p></li>
+	<li><p>Through my, through my mind, mind</p></li>
+	<li><p>Just keep it coming, coming</p></li>
+	<li><p>‘Til I make you mine, mine</p></li>
+	<li><p>You've got that something, something</p></li>
+	<li><p>I wanna be with girl</p></li>
+	<li><p>You're my greatest hit, girl</p></li>
+	<li><p>Just say this is it, girl</p></li>
+	<li><p>Hey, baby</p></li>
+	<li><p>Don't you know you're my it girl</p></li>
+	<li><p>You could be my it girl</p></li>
+	<li><p>Baby, you're the shit, girl</p></li>
+	<li><p>Lovin' you could be a crime</p></li>
+	<li><p>Crazy how we fit, girl</p></li>
+	<li><p>This is it, girl</p></li>
+	<li><p>Give me 25 to life</p></li>
+	<li><p>I just wanna rock all night long</p></li>
+	<li><p>And put you in the middle of my spotlight</p></li>
+	<li><p>You could be my it girl</p></li>
+	<li><p>You're my biggest hit, girl</p></li>
+	<li><p>Let me play it loud</p></li>
+	<li><p>Let me play it loud like oh, oh, oh, oh</p></li>
+	<li><p>Let me play it loud</p></li>
+	<li><p>Let me play it loud like oh, oh, oh, oh</p></li>
+	<li><p>Let me play it loud</p></li>
+	<li><p>Let me hear you sing it like oh, oh, oh, oh</p></li>
+	<li><p>Everybody in the crowd</p></li>
+	<li><p>Let me hear you sing it like</p></li>
+	<li><p>This is it, girl</p></li>

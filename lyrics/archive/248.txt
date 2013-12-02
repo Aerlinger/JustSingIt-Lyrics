@@ -1,0 +1,63 @@
+
+	<li><p>I found God</p></li>
+	<li><p>On the corner of 1st and Amistad</p></li>
+	<li><p>Where the West</p></li>
+	<li><p>Was all but won</p></li>
+	<li><p>All alone</p></li>
+	<li><p>Smoking his last cigarette</p></li>
+	<li><p>I said, "Where you been?"</p></li>
+	<li><p>He said, "Ask anything"</p></li>
+	<li><p>Where were you</p></li>
+	<li><p>When everything was falling apart?</p></li>
+	<li><p>All my days</p></li>
+	<li><p>Were spent by the telephone</p></li>
+	<li><p>That never rang</p></li>
+	<li><p>And all I needed was a call</p></li>
+	<li><p>That never came</p></li>
+	<li><p>To the corner of 1st and Amistad</p></li>
+	<li><p>Lost and insecure</p></li>
+	<li><p>You found me, you found me</p></li>
+	<li><p>Lying on the floor</p></li>
+	<li><p>Surrounded, surrounded</p></li>
+	<li><p>Why'd you have to wait?</p></li>
+	<li><p>Where were you? Where were you?</p></li>
+	<li><p>Just a little late</p></li>
+	<li><p>You found me, you found me</p></li>
+	<li><p>But in the end</p></li>
+	<li><p>Everyone ends up alone</p></li>
+	<li><p>Losing her</p></li>
+	<li><p>The only one who's ever known</p></li>
+	<li><p>Who I am</p></li>
+	<li><p>Who I'm not and who I wanna be</p></li>
+	<li><p>No way to know</p></li>
+	<li><p>How long she will be next to me</p></li>
+	<li><p>Lost and insecure</p></li>
+	<li><p>You found me, you found me</p></li>
+	<li><p>Lying on the floor</p></li>
+	<li><p>Surrounded, surrounded</p></li>
+	<li><p>Why'd you have to wait?</p></li>
+	<li><p>Where were you? Where were you?</p></li>
+	<li><p>Just a little late</p></li>
+	<li><p>You found me, you found me</p></li>
+	<li><p>The early morning</p></li>
+	<li><p>The city breaks</p></li>
+	<li><p>And I've been calling</p></li>
+	<li><p>For years and years and years and years</p></li>
+	<li><p>And you never left me no messages</p></li>
+	<li><p>You never sent me no letters</p></li>
+	<li><p>You got some kind of nerve</p></li>
+	<li><p>Taking all I want</p></li>
+	<li><p>Lost and insecure</p></li>
+	<li><p>You found me, you found me</p></li>
+	<li><p>Lying on the floor</p></li>
+	<li><p>Where were you? Where were you?</p></li>
+	<li><p>Lost and insecure</p></li>
+	<li><p>You found me, you found me</p></li>
+	<li><p>Lying on the floor</p></li>
+	<li><p>Surrounded, surrounded</p></li>
+	<li><p>Why'd you have to wait?</p></li>
+	<li><p>Where were you? Where were you?</p></li>
+	<li><p>Just a little late</p></li>
+	<li><p>You found me, you found me</p></li>
+	<li><p>Why'd you have to wait</p></li>
+	<li><p>To find me, to find me?</p></li>

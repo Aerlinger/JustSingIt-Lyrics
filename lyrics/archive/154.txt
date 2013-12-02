@@ -1,0 +1,63 @@
+
+	<li><p>Hey, over there</p></li>
+	<li><p>Please, forgive me</p></li>
+	<li><p>If I'm comin' on too strong</p></li>
+	<li><p>Hate to stare</p></li>
+	<li><p>But, you're winnin'</p></li>
+	<li><p>And they're playin' my favorite song</p></li>
+	<li><p>So, come here</p></li>
+	<li><p>A little closer</p></li>
+	<li><p>Wanna whisper in your ear</p></li>
+	<li><p>Make it clear</p></li>
+	<li><p>A little question</p></li>
+	<li><p>Wanna know just how you feel</p></li>
+	<li><p>If I said my heart was beating loud</p></li>
+	<li><p>If we could escape the crowd somehow</p></li>
+	<li><p>If I said I want your body now</p></li>
+	<li><p>Would you hold it against me?</p></li>
+	<li><p>‘Cause, you feel like paradise</p></li>
+	<li><p>And I need a vacation tonight</p></li>
+	<li><p>So, if I said I want your body now</p></li>
+	<li><p>Would you hold it against me?</p></li>
+	<li><p>Hey, you might think</p></li>
+	<li><p>That I'm crazy</p></li>
+	<li><p>But, you know I'm just your type</p></li>
+	<li><p>I might be</p></li>
+	<li><p>A little hazy</p></li>
+	<li><p>But, you just cannot deny</p></li>
+	<li><p>There's a spark</p></li>
+	<li><p>In-between us</p></li>
+	<li><p>When we're dancin' on the floor</p></li>
+	<li><p>I want more</p></li>
+	<li><p>Wanna see it</p></li>
+	<li><p>So, I'm askin' you tonight</p></li>
+	<li><p>If I said my heart was beating loud</p></li>
+	<li><p>If we could escape the crowd somehow</p></li>
+	<li><p>If I said I want your body now</p></li>
+	<li><p>Would you hold it against me?</p></li>
+	<li><p>‘Cause, you feel like paradise</p></li>
+	<li><p>And I need a vacation tonight</p></li>
+	<li><p>So, if I said I want your body now</p></li>
+	<li><p>Would you hold it against me?</p></li>
+	<li><p>If I said I want your body</p></li>
+	<li><p>Would you hold it against me?</p></li>
+	<li><p>Yeah</p></li>
+	<li><p>Uh-huh</p></li>
+	<li><p>Oh</p></li>
+	<li><p>Give me somethin' good</p></li>
+	<li><p>Don't wanna wait</p></li>
+	<li><p>I want it now</p></li>
+	<li><p>Pop it like a hood</p></li>
+	<li><p>And show me how you work it out</p></li>
+	<li><p>Alright</p></li>
+	<li><p>If I said my heart was beating loud</p></li>
+	<li><p>If I said I want your body now</p></li>
+	<li><p>Would you hold it against me?</p></li>
+	<li><p>If I said my heart was beating loud</p></li>
+	<li><p>If we could escape the crowd somehow</p></li>
+	<li><p>If I said I want your body now</p></li>
+	<li><p>Would you hold it against me?</p></li>
+	<li><p>‘Cause, you feel like paradise</p></li>
+	<li><p>And I need a vacation tonight</p></li>
+	<li><p>So, if I said I want your body now</p></li>
+	<li><p>Would you hold it against me?</p></li>

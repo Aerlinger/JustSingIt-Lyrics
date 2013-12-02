@@ -1,0 +1,61 @@
+
+	<li><p>Yeah, I'm chilling on a dirt road</p></li>
+	<li><p>Laid back, swerving like I'm George Jones</p></li>
+	<li><p>Smoke rolling out the window</p></li>
+	<li><p>An ice cold beer sitting in the console</p></li>
+	<li><p>Memory lane up in the headlights</p></li>
+	<li><p>It’s got me reminiscing on them good times</p></li>
+	<li><p>I'm turning off a real life drive and that's right</p></li>
+	<li><p>I'm hitting easy street on mud tires</p></li>
+	<li><p>Back in the day Pott’s farm was the place to go</p></li>
+	<li><p>Load the truck up, hit the dirt road</p></li>
+	<li><p>Jump the barbed wire, spread the word</p></li>
+	<li><p>Light the bonfire, then call the girls</p></li>
+	<li><p>King in the can and the Marlboro man</p></li>
+	<li><p>Jack 'n' Jim were a few good men</p></li>
+	<li><p>Where you learned how to kiss and cuss, and fight too</p></li>
+	<li><p>Better watch out for the boys in blue</p></li>
+	<li><p>And all this small town, he said, she said</p></li>
+	<li><p>Ain't it funny how rumors spread</p></li>
+	<li><p>Like I know something y'all don't know</p></li>
+	<li><p>Man, that talk is getting old</p></li>
+	<li><p>You better mind your business man, watch your mouth</p></li>
+	<li><p>Before I have to knock that loud mouth out</p></li>
+	<li><p>I'm tired of talking, man, y'all ain't listening</p></li>
+	<li><p>Them ol' dirt roads is what y'all missing</p></li>
+	<li><p>Yeah, I'm chilling on a dirt road</p></li>
+	<li><p>Laid back, swerving like I'm George Jones</p></li>
+	<li><p>Smoke rolling out the window</p></li>
+	<li><p>An ice cold beer sitting in the console</p></li>
+	<li><p>Memory lane up in the headlights</p></li>
+	<li><p>It’s got me reminiscing on them good times</p></li>
+	<li><p>I'm turning off a real life drive and that's right</p></li>
+	<li><p>I'm hitting easy street on mud tires</p></li>
+	<li><p>I sit back and think about them good old days</p></li>
+	<li><p>The way we were raised in our southern ways</p></li>
+	<li><p>And we like cornbread and biscuits</p></li>
+	<li><p>And if it's broke 'round here, we fix it</p></li>
+	<li><p>I can take y'all where you need to go</p></li>
+	<li><p>Down to my hood, back in them woods</p></li>
+	<li><p>We do it different round here, that's right</p></li>
+	<li><p>But we sure do it good and we do it all night</p></li>
+	<li><p>So if you really want to know how it feels</p></li>
+	<li><p>To get off the road with trucks and four wheels</p></li>
+	<li><p>Jump on in and, man, tell your friends</p></li>
+	<li><p>We'll raise some hell where the black top ends</p></li>
+	<li><p>I'm chilling on a dirt road</p></li>
+	<li><p>Laid back, swerving like I'm George Jones</p></li>
+	<li><p>Smoke rolling out the window</p></li>
+	<li><p>An ice cold beer sitting in the console</p></li>
+	<li><p>Memory lane up in the headlights</p></li>
+	<li><p>It’s got me reminiscing on them good times</p></li>
+	<li><p>I'm turning off a real life drive and that's right</p></li>
+	<li><p>I'm hitting easy street on mud tires, let's ride</p></li>
+	<li><p>Yeah, I'm chilling on a dirt road</p></li>
+	<li><p>Laid back, swerving like I'm George Jones</p></li>
+	<li><p>Smoke rolling out the window</p></li>
+	<li><p>An ice cold beer sitting in the console</p></li>
+	<li><p>Memory lane up in the headlights</p></li>
+	<li><p>It’s got me reminiscing on them good times</p></li>
+	<li><p>I'm turning off a real life drive and that's right</p></li>
+	<li><p>I'm hitting easy street on mud tires, let's ride</p></li>

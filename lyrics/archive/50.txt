@@ -1,0 +1,44 @@
+
+	<li><p>We are one</p></li>
+	<li><p>One’s forsure</p></li>
+	<li><p>All united</p></li>
+	<li><p>I want some more</p></li>
+	<li><p>Oh Oh Oh Oh</p></li>
+	<li><p>You make me!</p></li>
+	<li><p>Oh Oh Oh Oh</p></li>
+	<li><p>You make me!</p></li>
+	<li><p>We are one</p></li>
+	<li><p>One’s forsure</p></li>
+	<li><p>All united</p></li>
+	<li><p>I need you more</p></li>
+	<li><p>Oh Oh Oh Oh</p></li>
+	<li><p>You make me!</p></li>
+	<li><p>Oh Oh Oh Oh</p></li>
+	<li><p>All my life I’ve been</p></li>
+	<li><p>I’ve been waiting for someone like you (Yeah)</p></li>
+	<li><p>All my life I’ve been</p></li>
+	<li><p>I’ve been waiting for someone like you (Yeah)</p></li>
+	<li><p>I’ve been looking for someone like you (Yeah)</p></li>
+	<li><p>I’ve been waiting for someone like you (Like you)</p></li>
+	<li><p>You make me!</p></li>
+	<li><p>We are one</p></li>
+	<li><p>One’s for sure</p></li>
+	<li><p>All united</p></li>
+	<li><p>Don’t want some more</p></li>
+	<li><p>Oh Oh Oh Oh</p></li>
+	<li><p>You make me!</p></li>
+	<li><p>Oh Oh Oh Oh</p></li>
+	<li><p>You make me!</p></li>
+	<li><p>We are one</p></li>
+	<li><p>One’s forsure</p></li>
+	<li><p>All united</p></li>
+	<li><p>I need you more</p></li>
+	<li><p>Oh Oh Oh Oh</p></li>
+	<li><p>You make me!</p></li>
+	<li><p>Oh Oh Oh Oh</p></li>
+	<li><p>All my life I’ve been</p></li>
+	<li><p>I’ve been waiting for someone like you (Yeah)</p></li>
+	<li><p>All my life I’ve been</p></li>
+	<li><p>I’ve been waiting for someone like you (Yeah)</p></li>
+	<li><p>I’ve been looking for someone like you (Yeah)</p></li>
+	<li><p>I’ve been waiting for someone like you (Like you)</p></li>

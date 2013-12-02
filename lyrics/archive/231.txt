@@ -1,0 +1,52 @@
+
+	<li><p>Today was a fairytale</p></li>
+	<li><p>You were the prince</p></li>
+	<li><p>I used to be a damsel in distress</p></li>
+	<li><p>You took me by the hand and you picked me up at six</p></li>
+	<li><p>Today was a fairytale</p></li>
+	<li><p>Today was a fairytale</p></li>
+	<li><p>Today was a fairytale</p></li>
+	<li><p>I wore a dress</p></li>
+	<li><p>You wore a dark grey t-shirt</p></li>
+	<li><p>You told me I was pretty when I looked like a mess</p></li>
+	<li><p>Today was a fairytale</p></li>
+	<li><p>Time slows down whenever you're around</p></li>
+	<li><p>But can you feel this magic in the air?</p></li>
+	<li><p>It must have been the way you kissed me</p></li>
+	<li><p>Fell in love when I saw you standing there</p></li>
+	<li><p>It must have been the way</p></li>
+	<li><p>Today was a fairytale</p></li>
+	<li><p>It must have been the way</p></li>
+	<li><p>Today was a fairytale</p></li>
+	<li><p>Today was a fairytale</p></li>
+	<li><p>You've got a smile that takes me to another planet</p></li>
+	<li><p>Every move you make everything you say is right</p></li>
+	<li><p>Today was a fairytale</p></li>
+	<li><p>Today was a fairytale</p></li>
+	<li><p>All that I can say is it's getting so much clearer</p></li>
+	<li><p>Nothing made sense until the time I saw your face</p></li>
+	<li><p>Time slows down whenever you're around</p></li>
+	<li><p>Yeah, yeah</p></li>
+	<li><p>But can you feel this magic in the air?</p></li>
+	<li><p>It must have been the way you kissed me</p></li>
+	<li><p>Fell in love when I saw you standing there</p></li>
+	<li><p>It must have been the way</p></li>
+	<li><p>Today was a fairytale</p></li>
+	<li><p>It must have been the way</p></li>
+	<li><p>Today was a fairytale</p></li>
+	<li><p>Time slows down whenever you're around</p></li>
+	<li><p>I can feel my heart</p></li>
+	<li><p>It's beating in my chest</p></li>
+	<li><p>Did you feel it?</p></li>
+	<li><p>I can't put this down</p></li>
+	<li><p>But can you feel this magic in the air?</p></li>
+	<li><p>It must have been the way you kissed me</p></li>
+	<li><p>Fell in love when I saw you standing there</p></li>
+	<li><p>It must have been the way</p></li>
+	<li><p>But can you feel this magic in the air?</p></li>
+	<li><p>It must have been the way you kissed me</p></li>
+	<li><p>Fell in love when I saw you standing there</p></li>
+	<li><p>It must have been the way</p></li>
+	<li><p>Today was a fairytale</p></li>
+	<li><p>It must have been the way</p></li>
+	<li><p>Today was a fairytale</p></li>

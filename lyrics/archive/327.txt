@@ -1,0 +1,25 @@
+
+	<li><p>I close both locks below the window</p></li>
+	<li><p>I close both blinds and turn away</p></li>
+	<li><p>Sometimes solutions aren't so simple</p></li>
+	<li><p>Sometimes good bye's the only way</p></li>
+	<li><p>And the sun will set for you</p></li>
+	<li><p>The sun will set for you</p></li>
+	<li><p>And the shadow of the day</p></li>
+	<li><p>Will embrace the world in grey</p></li>
+	<li><p>And the sun will set for you</p></li>
+	<li><p>In cards and flowers on your window</p></li>
+	<li><p>Your friends all plead for you to stay</p></li>
+	<li><p>Sometimes beginnings aren't so simple</p></li>
+	<li><p>Sometimes goodbye's the only way</p></li>
+	<li><p>And the sun will set for you</p></li>
+	<li><p>The sun will set for you</p></li>
+	<li><p>And the shadow of the day</p></li>
+	<li><p>Will embrace the world in grey</p></li>
+	<li><p>And the sun will set for you</p></li>
+	<li><p>And the shadow of the day</p></li>
+	<li><p>Will embrace the world in grey</p></li>
+	<li><p>And the sun will set for you</p></li>
+	<li><p>And the shadow of the day</p></li>
+	<li><p>Will embrace the world in grey</p></li>
+	<li><p>And the sun will set for you</p></li>

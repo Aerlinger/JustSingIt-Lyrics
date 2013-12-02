@@ -1,0 +1,54 @@
+
+	<li><p>I can almost see it</p></li>
+	<li><p>That dream I’m dreaming but</p></li>
+	<li><p>There’s a voice inside my head sayin’</p></li>
+	<li><p>You’ll never reach it</p></li>
+	<li><p>Every step I’m taking</p></li>
+	<li><p>Every move I make feels</p></li>
+	<li><p>Lost with no direction</p></li>
+	<li><p>My faith is shaking but I</p></li>
+	<li><p>I gotta keep trying</p></li>
+	<li><p>Gotta keep my head held high</p></li>
+	<li><p>There's always gonna be another mountain</p></li>
+	<li><p>I'm always gonna wanna make it move</p></li>
+	<li><p>Always gonna be an uphill battle</p></li>
+	<li><p>Sometimes I'm gonna have to lose</p></li>
+	<li><p>Ain't about how fast I get there</p></li>
+	<li><p>Ain't about what's waiting on the other side</p></li>
+	<li><p>It's the climb</p></li>
+	<li><p>The struggles I’m facing</p></li>
+	<li><p>The chances I’m taking</p></li>
+	<li><p>Sometimes might knock me down but</p></li>
+	<li><p>No, I’m not breaking</p></li>
+	<li><p>I may not know it</p></li>
+	<li><p>But these are the moments that</p></li>
+	<li><p>I’m gonna remember most, yeah</p></li>
+	<li><p>Just gotta keep going</p></li>
+	<li><p>And I, I gotta be strong</p></li>
+	<li><p>Just keep pushing on</p></li>
+	<li><p>‘Cause</p></li>
+	<li><p>There's always gonna be another mountain</p></li>
+	<li><p>I'm always gonna wanna make it move</p></li>
+	<li><p>Always gonna be an uphill battle</p></li>
+	<li><p>Sometimes I'm gonna have to lose</p></li>
+	<li><p>Ain't about how fast I get there</p></li>
+	<li><p>Ain't about what's waiting on the other side</p></li>
+	<li><p>It's the climb</p></li>
+	<li><p>Yeah</p></li>
+	<li><p>There's always gonna be another mountain</p></li>
+	<li><p>I'm always gonna wanna make it move</p></li>
+	<li><p>Always gonna be an uphill battle</p></li>
+	<li><p>Somebody gonna have to lose</p></li>
+	<li><p>Ain't about how fast I get there</p></li>
+	<li><p>Ain't about what's waiting on the other side</p></li>
+	<li><p>It's the climb</p></li>
+	<li><p>Yeah</p></li>
+	<li><p>Keep on moving</p></li>
+	<li><p>Keep climbing</p></li>
+	<li><p>Keep the faith, baby</p></li>
+	<li><p>It’s all about</p></li>
+	<li><p>It’s all about</p></li>
+	<li><p>The climb</p></li>
+	<li><p>Keep your faith</p></li>
+	<li><p>Keep your faith</p></li>
+	<li><p>Whoa</p></li>

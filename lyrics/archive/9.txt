@@ -1,0 +1,61 @@
+
+	<li><p>I need your love</p></li>
+	<li><p>I need your time</p></li>
+	<li><p>When everything's wrong</p></li>
+	<li><p>You make it right</p></li>
+	<li><p>I feel so high</p></li>
+	<li><p>I come alive</p></li>
+	<li><p>I need to be free with you tonight</p></li>
+	<li><p>I need your love</p></li>
+	<li><p>I need your love</p></li>
+	<li><p>I take a deep breath every time I pass your door</p></li>
+	<li><p>I know you're there but I can't see you anymore</p></li>
+	<li><p>And that's the reason you're in the dark</p></li>
+	<li><p>I've been a stranger ever since we fell apart</p></li>
+	<li><p>And I feel so helplessly</p></li>
+	<li><p>Watch my eyes are filled with fear</p></li>
+	<li><p>Tell me do you feel the same</p></li>
+	<li><p>Hold me in your arms again</p></li>
+	<li><p>I need your love</p></li>
+	<li><p>I need your time</p></li>
+	<li><p>When everything's wrong</p></li>
+	<li><p>You make it right</p></li>
+	<li><p>I feel so high</p></li>
+	<li><p>I come alive</p></li>
+	<li><p>I need to be free with you tonight</p></li>
+	<li><p>I need your love</p></li>
+	<li><p>I need your love</p></li>
+	<li><p>Now I'm dreaming, will ever find you now?</p></li>
+	<li><p>I walk in circles but I'll never figure out</p></li>
+	<li><p>What I mean to you, do I belong</p></li>
+	<li><p>I try to fight this but I know I'm not that strong</p></li>
+	<li><p>And I feel so helplessly</p></li>
+	<li><p>Watch my eyes are filled with fear</p></li>
+	<li><p>Tell me do you feel the same</p></li>
+	<li><p>Hold me in your arms again</p></li>
+	<li><p>I need your love</p></li>
+	<li><p>I need your time</p></li>
+	<li><p>When everything's wrong</p></li>
+	<li><p>You make it right</p></li>
+	<li><p>I feel so high</p></li>
+	<li><p>I come alive</p></li>
+	<li><p>I need to be free with you tonight</p></li>
+	<li><p>I need your love</p></li>
+	<li><p>I need your love</p></li>
+	<li><p>All the years</p></li>
+	<li><p>All the times</p></li>
+	<li><p>You were never been to blame</p></li>
+	<li><p>And now my eyes are perfect</p></li>
+	<li><p>And now my heart is closing</p></li>
+	<li><p>And all the tears</p></li>
+	<li><p>All the lies</p></li>
+	<li><p>All the waste</p></li>
+	<li><p>I've been trying to make it change</p></li>
+	<li><p>And now my eyes are perfect</p></li>
+	<li><p>I need your love</p></li>
+	<li><p>I need your time</p></li>
+	<li><p>When everything's wrong</p></li>
+	<li><p>You make it right</p></li>
+	<li><p>I feel so high</p></li>
+	<li><p>I come alive</p></li>
+	<li><p>I need to be free</p></li>

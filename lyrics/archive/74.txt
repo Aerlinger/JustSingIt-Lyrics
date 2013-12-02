@@ -1,0 +1,74 @@
+
+	<li><p>(Hey, hey)</p></li>
+	<li><p>Bye, bye, bye</p></li>
+	<li><p>Bye, bye</p></li>
+	<li><p>Bye, bye</p></li>
+	<li><p>Oh, oh</p></li>
+	<li><p>I'm doin' this tonight</p></li>
+	<li><p>You're probably gonna start a fight</p></li>
+	<li><p>I know this can't be right</p></li>
+	<li><p>Hey baby come on</p></li>
+	<li><p>I loved you endlessly</p></li>
+	<li><p>When you weren't there for me</p></li>
+	<li><p>So now it's time to leave and make it alone</p></li>
+	<li><p>I know that I can't take no more</p></li>
+	<li><p>It ain't no lie</p></li>
+	<li><p>I wanna see you out that door</p></li>
+	<li><p>Baby, bye, bye, bye</p></li>
+	<li><p>Bye bye</p></li>
+	<li><p>Don't wanna be a fool for you</p></li>
+	<li><p>Just another player in your game for two</p></li>
+	<li><p>You may hate me but it ain't no lie</p></li>
+	<li><p>Baby, bye, bye, bye</p></li>
+	<li><p>Bye bye</p></li>
+	<li><p>Don't really wanna make it tough</p></li>
+	<li><p>I just wanna tell you that I had enough</p></li>
+	<li><p>It might sound crazy</p></li>
+	<li><p>But it ain't no lie</p></li>
+	<li><p>Baby, bye, bye, bye</p></li>
+	<li><p>(Oh, oh)</p></li>
+	<li><p>Just hit me with the truth</p></li>
+	<li><p>Now, girl you're more than welcome to</p></li>
+	<li><p>So give me one good reason</p></li>
+	<li><p>Baby come on</p></li>
+	<li><p>I live for you and me</p></li>
+	<li><p>And now I really come to see</p></li>
+	<li><p>That life would be much better once you're gone</p></li>
+	<li><p>I know that I can't take no more</p></li>
+	<li><p>It ain't no lie</p></li>
+	<li><p>I wanna see you out that door</p></li>
+	<li><p>Baby, bye, bye, bye</p></li>
+	<li><p>Bye bye</p></li>
+	<li><p>Don't wanna be a fool for you</p></li>
+	<li><p>Just another player in your game for two</p></li>
+	<li><p>You may hate me but it ain't no lie</p></li>
+	<li><p>Baby Bye, bye, bye</p></li>
+	<li><p>Bye bye</p></li>
+	<li><p>Don't really wanna make it tough</p></li>
+	<li><p>I just wanna tell you that I had enough (ooh ooh)</p></li>
+	<li><p>It might sound crazy</p></li>
+	<li><p>But it ain't no lie</p></li>
+	<li><p>Baby, bye, bye, bye</p></li>
+	<li><p>I'm giving up I know for sure</p></li>
+	<li><p>I don't wanna be the reason for your love no more</p></li>
+	<li><p>Bye bye</p></li>
+	<li><p>I'm checkin' out</p></li>
+	<li><p>I'm signin' off</p></li>
+	<li><p>Don't wanna be the loser and I've had enough</p></li>
+	<li><p>Don't wanna be your fool</p></li>
+	<li><p>In this game for two</p></li>
+	<li><p>So I'm leavin' you behind</p></li>
+	<li><p>Bye, bye, bye</p></li>
+	<li><p>I don't wanna make it tough (wanna make it tough)</p></li>
+	<li><p>But I had enough</p></li>
+	<li><p>And it ain't no lie (Bye, bye baby)</p></li>
+	<li><p>Bye, bye</p></li>
+	<li><p>Don't wanna be a fool for you</p></li>
+	<li><p>Just another player in your game for two (I don't wanna be your fool)</p></li>
+	<li><p>But it ain't no lie</p></li>
+	<li><p>Baby bye, bye, bye</p></li>
+	<li><p>Don't really wanna make it tough (don't really wanna make it tough)</p></li>
+	<li><p>I just wanna tell you that I had enough (that I had enough)</p></li>
+	<li><p>Might sound crazy</p></li>
+	<li><p>But it ain't no lie</p></li>
+	<li><p>Bye, bye, bye</p></li>

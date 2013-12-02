@@ -1,0 +1,43 @@
+
+	<li><p>Here we go, come with me</p></li>
+	<li><p>There's a world out there that we should see</p></li>
+	<li><p>Take my hand, close your eyes</p></li>
+	<li><p>With you right here, I'm a rocketeer</p></li>
+	<li><p>Let's fly</p></li>
+	<li><p>Up, up here we go</p></li>
+	<li><p>Up, up here we go</p></li>
+	<li><p>Let's fly</p></li>
+	<li><p>Up, up here we go, go</p></li>
+	<li><p>Where we stop nobody knows, knows</p></li>
+	<li><p>Where we go we don't need roads, roads</p></li>
+	<li><p>Where we stop nobody knows, knows</p></li>
+	<li><p>To the stars if you really want it</p></li>
+	<li><p>Got, got a jetpack with your name on it</p></li>
+	<li><p>Above the clouds in the atmosphere, phere</p></li>
+	<li><p>Just say the words and we outta here, outta here</p></li>
+	<li><p>Hold my hand if you feeling scared, scared</p></li>
+	<li><p>We flying up, up outta here</p></li>
+	<li><p>Here we go, come with me</p></li>
+	<li><p>There's a world out there that we should see</p></li>
+	<li><p>Take my hand, close your eyes</p></li>
+	<li><p>Here we go, come with me</p></li>
+	<li><p>There's a world out there that we should see</p></li>
+	<li><p>Take my hand, close your eyes</p></li>
+	<li><p>With you right here, I'm a rocketeer</p></li>
+	<li><p>Nah, I never been in space before</p></li>
+	<li><p>But I never seen a face like yours</p></li>
+	<li><p>You make me feel like I could touch the planets</p></li>
+	<li><p>You want the moon, girl watch me grab it</p></li>
+	<li><p>See I never seen the stars this close</p></li>
+	<li><p>You got me stuck off the way you glow</p></li>
+	<li><p>I'm like, oh, oh, oh, oh</p></li>
+	<li><p>I'm like, oh, oh, oh, oh</p></li>
+	<li><p>Here we go, come with me</p></li>
+	<li><p>There's a world out there that we should see</p></li>
+	<li><p>Take my hand, close your eyes</p></li>
+	<li><p>With you right here, I'm a rocketeer</p></li>
+	<li><p>Let's fly</p></li>
+	<li><p>Up, up here we go, go</p></li>
+	<li><p>Let's fly</p></li>
+	<li><p>Up, up here we go, go</p></li>
+	<li><p>Where we stop nobody knows, knows, knows</p></li>

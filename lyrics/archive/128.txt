@@ -1,0 +1,145 @@
+
+	<li><p>Made a wrong turn, once or twice</p></li>
+	<li><p>Dug my way out, blood and fire</p></li>
+	<li><p>Bad decisions, that's alright</p></li>
+	<li><p>Welcome to my silly life</p></li>
+	<li><p>Mistreated</p></li>
+	<li><p>Misplaced, misunderstood</p></li>
+	<li><p>Miss “No way, it's all good”</p></li>
+	<li><p>It didn't slow me down</p></li>
+	<li><p>Mistaken</p></li>
+	<li><p>Always second guessing</p></li>
+	<li><p>Underestimated</p></li>
+	<li><p>Look, I'm still around</p></li>
+	<li><p>Pretty, pretty please</p></li>
+	<li><p>Don't you ever, ever feel</p></li>
+	<li><p>Like you're less than</p></li>
+	<li><p>Fuckin' perfect</p></li>
+	<li><p>Pretty, pretty please</p></li>
+	<li><p>If you ever, ever feel</p></li>
+	<li><p>Like you're nothing</p></li>
+	<li><p>You're fuckin' perfect to me</p></li>
+	<li><p>You're so mean, when you talk</p></li>
+	<li><p>About yourself, you were wrong</p></li>
+	<li><p>Change the voices</p></li>
+	<li><p>In your head</p></li>
+	<li><p>Make them like you instead</p></li>
+	<li><p>So complicated</p></li>
+	<li><p>Look happy, you'll make it</p></li>
+	<li><p>Filled with so much hatred</p></li>
+	<li><p>Such a tired game</p></li>
+	<li><p>It’s enough, I’ve done all I can think of</p></li>
+	<li><p>Chased down all my demons</p></li>
+	<li><p>I’ve seen you do the same</p></li>
+	<li><p>Oh, oh</p></li>
+	<li><p>Pretty, pretty please</p></li>
+	<li><p>Don't you ever, ever feel</p></li>
+	<li><p>Like you're less than</p></li>
+	<li><p>Fuckin' perfect</p></li>
+	<li><p>Pretty, pretty please</p></li>
+	<li><p>If you ever, ever feel</p></li>
+	<li><p>Like you're nothing</p></li>
+	<li><p>You're fuckin' perfect to me</p></li>
+	<li><p>The whole world’s scared</p></li>
+	<li><p>So I swallow the fear</p></li>
+	<li><p>The only thing I should be drinking</p></li>
+	<li><p>Is an ice cold beer</p></li>
+	<li><p>So cool in line</p></li>
+	<li><p>And we try, try, try</p></li>
+	<li><p>But we try too hard</p></li>
+	<li><p>And it’s a waste of my time</p></li>
+	<li><p>Done looking for the critics ‘cause they’re everywhere</p></li>
+	<li><p>They don’t like my jeans</p></li>
+	<li><p>They don’t get my hair</p></li>
+	<li><p>Exchange ourselves, and we do it all the time</p></li>
+	<li><p>Why do we do that</p></li>
+	<li><p>Why do I do that</p></li>
+	<li><p>Why do I do that?</p></li>
+	<li><p>Yeah</p></li>
+	<li><p>Oh</p></li>
+	<li><p>Oh, pretty, pretty, plea-oh</p></li>
+	<li><p>Pretty, pretty please</p></li>
+	<li><p>Don't you ever, ever feel</p></li>
+	<li><p>Like you're less than</p></li>
+	<li><p>Fuckin' perfect</p></li>
+	<li><p>Pretty, pretty please</p></li>
+	<li><p>If you ever, ever feel</p></li>
+	<li><p>Like you're nothing</p></li>
+	<li><p>You're fuckin' perfect to me</p></li>
+	<li><p>You’re perfect, you’re perfect</p></li>
+	<li><p>Pretty, pretty please</p></li>
+	<li><p>If you ever, ever feel</p></li>
+	<li><p>Like you're nothing</p></li>
+	<li><p>You're fuckin' perfect to me</p></li>
+	<li><p>Made a wrong turn, once or twice</p></li>
+	<li><p>Dug my way out, blood and fire</p></li>
+	<li><p>Bad decisions, that's alright</p></li>
+	<li><p>Welcome to my silly life</p></li>
+	<li><p>Mistreated</p></li>
+	<li><p>Misplaced, misunderstood</p></li>
+	<li><p>Miss “No way, it's all good”</p></li>
+	<li><p>It didn't slow me down</p></li>
+	<li><p>Mistaken</p></li>
+	<li><p>Always second guessing</p></li>
+	<li><p>Underestimated</p></li>
+	<li><p>Look, I'm still around</p></li>
+	<li><p>Pretty, pretty please</p></li>
+	<li><p>Don't you ever, ever feel</p></li>
+	<li><p>Like you're less than</p></li>
+	<li><p>Fuckin' perfect</p></li>
+	<li><p>Pretty, pretty please</p></li>
+	<li><p>If you ever, ever feel</p></li>
+	<li><p>Like you're nothing</p></li>
+	<li><p>You're fuckin' perfect to me</p></li>
+	<li><p>You're so mean, when you talk</p></li>
+	<li><p>About yourself, you were wrong</p></li>
+	<li><p>Change the voices</p></li>
+	<li><p>In your head</p></li>
+	<li><p>Make them like you instead</p></li>
+	<li><p>So complicated</p></li>
+	<li><p>Look happy, you'll make it</p></li>
+	<li><p>Filled with so much hatred</p></li>
+	<li><p>Such a tired game</p></li>
+	<li><p>It’s enough, I’ve done all I can think of</p></li>
+	<li><p>Chased down all my demons</p></li>
+	<li><p>I’ve seen you do the same</p></li>
+	<li><p>Oh, oh</p></li>
+	<li><p>Pretty, pretty please</p></li>
+	<li><p>Don't you ever, ever feel</p></li>
+	<li><p>Like you're less than</p></li>
+	<li><p>Fuckin' perfect</p></li>
+	<li><p>Pretty, pretty please</p></li>
+	<li><p>If you ever, ever feel</p></li>
+	<li><p>Like you're nothing</p></li>
+	<li><p>You're fuckin' perfect to me</p></li>
+	<li><p>The whole world’s scared</p></li>
+	<li><p>So I swallow the fear</p></li>
+	<li><p>The only thing I should be drinking</p></li>
+	<li><p>Is an ice cold beer</p></li>
+	<li><p>So cool in line</p></li>
+	<li><p>And we try, try, try</p></li>
+	<li><p>But we try too hard</p></li>
+	<li><p>And it’s a waste of my time</p></li>
+	<li><p>Done looking for the critics ‘cause they’re everywhere</p></li>
+	<li><p>They don’t like my jeans</p></li>
+	<li><p>They don’t get my hair</p></li>
+	<li><p>Exchange ourselves, and we do it all the time</p></li>
+	<li><p>Why do we do that</p></li>
+	<li><p>Why do I do that</p></li>
+	<li><p>Why do I do that?</p></li>
+	<li><p>Yeah</p></li>
+	<li><p>Oh</p></li>
+	<li><p>Oh, pretty, pretty, plea-oh</p></li>
+	<li><p>Pretty, pretty please</p></li>
+	<li><p>Don't you ever, ever feel</p></li>
+	<li><p>Like you're less than</p></li>
+	<li><p>Fuckin' perfect</p></li>
+	<li><p>Pretty, pretty please</p></li>
+	<li><p>If you ever, ever feel</p></li>
+	<li><p>Like you're nothing</p></li>
+	<li><p>You're fuckin' perfect to me</p></li>
+	<li><p>You’re perfect, you’re perfect</p></li>
+	<li><p>Pretty, pretty please</p></li>
+	<li><p>If you ever, ever feel</p></li>
+	<li><p>Like you're nothing</p></li>
+	<li><p>You're fuckin' perfect to me</p></li>

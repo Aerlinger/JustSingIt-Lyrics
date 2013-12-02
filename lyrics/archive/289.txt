@@ -1,0 +1,52 @@
+
+	<li><p>You know I like my chicken fried</p></li>
+	<li><p>Cold beer on a Friday night</p></li>
+	<li><p>A pair of jeans that fit just right</p></li>
+	<li><p>And the radio up</p></li>
+	<li><p>Well, I was raised up</p></li>
+	<li><p>Beneath the shade of a Georgia pine</p></li>
+	<li><p>And that`s home, you know</p></li>
+	<li><p>Sweet tea pecan pie and homemade wine</p></li>
+	<li><p>Where the peaches grow</p></li>
+	<li><p>And my house, it`s not much to talk about</p></li>
+	<li><p>But it`s filled with love</p></li>
+	<li><p>That`s grown in southern ground</p></li>
+	<li><p>And a little bit of chicken fried</p></li>
+	<li><p>Cold beer on a Friday night</p></li>
+	<li><p>A pair of jeans that fit just right</p></li>
+	<li><p>And the radio up</p></li>
+	<li><p>Well, I`ve seen the sunrise</p></li>
+	<li><p>See the love in my woman`s eyes</p></li>
+	<li><p>Feel the touch of a precious child</p></li>
+	<li><p>And know a mother`s love</p></li>
+	<li><p>Well, it’s funny how it`s the little things</p></li>
+	<li><p>In life that mean the most</p></li>
+	<li><p>Not where you live or the car you drive</p></li>
+	<li><p>Or the price tag on your clothes</p></li>
+	<li><p>There`s no dollar sign on a piece of mind</p></li>
+	<li><p>This I`ve come to know</p></li>
+	<li><p>So if you agree, have a drink with me</p></li>
+	<li><p>Raise you glasses for a toast</p></li>
+	<li><p>To a little bit of chicken fried</p></li>
+	<li><p>Cold beer on a Friday night</p></li>
+	<li><p>A pair of jeans that fit just right</p></li>
+	<li><p>And the radio up</p></li>
+	<li><p>Well, I`ve seen the sunrise</p></li>
+	<li><p>See the love in my woman`s eyes</p></li>
+	<li><p>Feel the touch of a precious child</p></li>
+	<li><p>And know a mother`s love</p></li>
+	<li><p>I thank God for my life</p></li>
+	<li><p>And for the stars and stripes</p></li>
+	<li><p>May freedom forever fly, let it ring</p></li>
+	<li><p>Salute the ones who died</p></li>
+	<li><p>The ones that give their lives</p></li>
+	<li><p>So we don`t have to sacrifice</p></li>
+	<li><p>All the things we love</p></li>
+	<li><p>Like our chicken fried</p></li>
+	<li><p>Cold beer on a Friday night</p></li>
+	<li><p>A pair of jeans that fit just right</p></li>
+	<li><p>And the radio up</p></li>
+	<li><p>Well, I`ve seen the sunrise</p></li>
+	<li><p>See the love in my woman`s eyes</p></li>
+	<li><p>Feel the touch of a precious child</p></li>
+	<li><p>And know a mother`s love</p></li>

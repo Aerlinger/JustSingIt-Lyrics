@@ -1,0 +1,98 @@
+
+	<li><p>Intro</p></li>
+	<li><p>Yeah, Uhh, Hahaa!</p></li>
+	<li><p>Feels good don't it? Uh, Mmm, Listen, Uh!</p></li>
+	<li><p>Yeah, this was your city</p></li>
+	<li><p>You did it all and more</p></li>
+	<li><p>Broke every law</p></li>
+	<li><p>Except for one babe</p></li>
+	<li><p>Attraction, are you ready?</p></li>
+	<li><p>I know you feel it Boo</p></li>
+	<li><p>You near it till</p></li>
+	<li><p>You feel it looking....</p></li>
+	<li><p>Wanna do somethin' right</p></li>
+	<li><p>But we can do somethin' better</p></li>
+	<li><p>Ain't no time like tonight</p></li>
+	<li><p>And we ain't trying to save it for later</p></li>
+	<li><p>We stay out here livin' the life</p></li>
+	<li><p>Nobody cares who we are tomorrow</p></li>
+	<li><p>And you got a lil' somethin' I like</p></li>
+	<li><p>A lil' somethin' I been wanting to borrow</p></li>
+	<li><p>Tonights the night</p></li>
+	<li><p>Come on surrender</p></li>
+	<li><p>I wont lead your love astray... astra-Yeayuhh..</p></li>
+	<li><p>Your love's a weapon</p></li>
+	<li><p>Give your body some direction that's my aim</p></li>
+	<li><p>Then we could...</p></li>
+	<li><p>Take Back the Night!</p></li>
+	<li><p>Come on use me up until there's nothin' left</p></li>
+	<li><p>Take Back the Night!</p></li>
+	<li><p>Dizzy spinnin', sweat and you can't catch your breath</p></li>
+	<li><p>Take Back the Night!</p></li>
+	<li><p>Oooo.. Don't know when the sun is risin' next</p></li>
+	<li><p>Take Back the Night!</p></li>
+	<li><p>So, if the feeling's right then raise your glass and lets</p></li>
+	<li><p>Take Back the Night! Take Back the Night!</p></li>
+	<li><p>They gonna try to shut us down</p></li>
+	<li><p>But I'll be damned if we gonna let'm</p></li>
+	<li><p>Take Back the Night! Take Back the Night!</p></li>
+	<li><p>You know you gonna mess around</p></li>
+	<li><p>And find out there ain't no one better</p></li>
+	<li><p>Take Back the Night!</p></li>
+	<li><p>Yeah! There's not too many</p></li>
+	<li><p>No one but you and crowded rooms</p></li>
+	<li><p>We can do anything</p></li>
+	<li><p>Attraction can drive you crazy</p></li>
+	<li><p>And the way you move when you go crazy</p></li>
+	<li><p>That's incentive for me</p></li>
+	<li><p>Wanna do something right</p></li>
+	<li><p>But we can do something better</p></li>
+	<li><p>Aint no time like tonight</p></li>
+	<li><p>And we ain't trying to save it for later</p></li>
+	<li><p>We stay out here living the life</p></li>
+	<li><p>Nobody cares who we are tomorrow</p></li>
+	<li><p>And you got a lil' something I like</p></li>
+	<li><p>A lil' something I been wantin' to borrow</p></li>
+	<li><p>Tonights the night</p></li>
+	<li><p>Come on surrender</p></li>
+	<li><p>I wont lead your love astray... astra-Yeayuhh..</p></li>
+	<li><p>Your love's a weapon</p></li>
+	<li><p>Give your body some direction that's my aim</p></li>
+	<li><p>Then we could...</p></li>
+	<li><p>Take Back the Night!</p></li>
+	<li><p>Come on use me up until there's nothin' left</p></li>
+	<li><p>Take Back the Night!</p></li>
+	<li><p>Dizzy spinnin', sweat and you can't catch your breath</p></li>
+	<li><p>Take Back the Night!</p></li>
+	<li><p>Oooo.. Don't know when the sun is risin' next</p></li>
+	<li><p>Take Back the Night!</p></li>
+	<li><p>So, if the feeling's right then raise your glass and lets</p></li>
+	<li><p>Take Back the Night! Take Back the Night!</p></li>
+	<li><p>They gonna try to shut us down</p></li>
+	<li><p>But I'll be damned if we gonna let'm</p></li>
+	<li><p>Take Back the Night! Take Back the Night!</p></li>
+	<li><p>You know you gonna mess around</p></li>
+	<li><p>And find out there ain't no one better</p></li>
+	<li><p>Take Back the Night!</p></li>
+	<li><p>Break it down now...Uhh! Break it, break it down now..Uhh!</p></li>
+	<li><p>And the Horns Say... Alright!</p></li>
+	<li><p>And the Horns Say... Uhh! Oooo...</p></li>
+	<li><p>And the Horns Say... Alright!</p></li>
+	<li><p>And the Horns Say... Doo doo doo doodoodoo Take it over!</p></li>
+	<li><p>"Yeah... Y'all ready to have a good time out there ladies & gentlemen?</p></li>
+	<li><p>J.T. & the Tenessee Kids... Let your hair down baby."</p></li>
+	<li><p>Take Back the Night! Take Back the Night!</p></li>
+	<li><p>Take Back the Night!</p></li>
+	<li><p>Oooo...We don't know when the sun is risin' next</p></li>
+	<li><p>Take Back the Night!</p></li>
+	<li><p>If the feeling's right then raise your glass and let's</p></li>
+	<li><p>Take Back the Night! Take Back the Night!</p></li>
+	<li><p>They gonna try to shut us down</p></li>
+	<li><p>I'll be damned if we gonna let'm</p></li>
+	<li><p>Take Back the Night! Take Back the Night!</p></li>
+	<li><p>You know you gonna mess around</p></li>
+	<li><p>and find out there ain't no one better</p></li>
+	<li><p>And the Horns Say... Alright!</p></li>
+	<li><p>And the Horns Say... Uhh!</p></li>
+	<li><p>And the Horns Say... Feels good to me!</p></li>
+	<li><p>And the Horns Say... Alright, Oooo take it over!</p></li>

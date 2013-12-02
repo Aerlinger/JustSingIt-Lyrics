@@ -1,0 +1,82 @@
+
+	<li><p>Yea I'm out that Brooklyn, now I'm down in TriBeCa</p></li>
+	<li><p>right next to Deniro, but I'll be hood forever</p></li>
+	<li><p>I'm the new Sinatra, and... since I made it here</p></li>
+	<li><p>I can make it anywhere, yea, they love me everywhere</p></li>
+	<li><p>I used to cop in Harlem, all of my Dominicano's</p></li>
+	<li><p>right there up on Broadway, pull me back to that McDonald's</p></li>
+	<li><p>Took it to my stashbox, 560 State St.</p></li>
+	<li><p>catch me in the kitchen like a Simmons with them Pastry's</p></li>
+	<li><p>Cruisin' down 8th St., off white Lexus</p></li>
+	<li><p>drivin' so slow, but BK is from Texas</p></li>
+	<li><p>Me, I'm out that Bed-Stuy, home of that boy Biggie</p></li>
+	<li><p>now I live on Billboard and I brought my boys with me</p></li>
+	<li><p>Say what's up to Ty-Ty, still sippin' mai tai's</p></li>
+	<li><p>sittin' courtside, Knicks & Nets give me high five</p></li>
+	<li><p>Nigga I be Spike'd out, I could trip a referee</p></li>
+	<li><p>Tell by my attitude that I'm most definitely from</p></li>
+	<li><p>New York, concrete jungle where dreams are made of</p></li>
+	<li><p>There's nothin' you can't do</p></li>
+	<li><p>Now you're in New York</p></li>
+	<li><p>These streets will make you feel brand new</p></li>
+	<li><p>Big lights will inspire you</p></li>
+	<li><p>Let's hear it for New York, New York,</p></li>
+	<li><p>New York</p></li>
+	<li><p>Catch me at the X with OG at a Yankee game</p></li>
+	<li><p>Shit, I made the Yankee hat more famous then a Yankee can</p></li>
+	<li><p>You should know I bleed blue, but I ain't a Crip though</p></li>
+	<li><p>but I got a gang of niggas walkin' with my clique though</p></li>
+	<li><p>Welcome to the melting pot, corners where we sellin' rock</p></li>
+	<li><p>Afrika Bambataa shit, home of the hip-hop</p></li>
+	<li><p>Yellow cab, gypsy cab, dollar cab, holla back</p></li>
+	<li><p>for foreigners it ain't for, they act like they forgot how to act</p></li>
+	<li><p>8 million stories, out there in it naked</p></li>
+	<li><p>City, it's a pity, half of y'all won't make it</p></li>
+	<li><p>Me, I got a plug, Special Ed "I Got It Made"</p></li>
+	<li><p>If Jeezy's payin' LeBron, I'm payin' Dwyane Wade</p></li>
+	<li><p>Three dice cee-lo, three Card Monty</p></li>
+	<li><p>Labor Day Parade, rest in peace Bob Marley</p></li>
+	<li><p>Statue of Liberty, long live the World Trade</p></li>
+	<li><p>Long live the King yo, I'm from the Empire State that's</p></li>
+	<li><p>New York, concrete jungle where dreams are made of</p></li>
+	<li><p>There's nothin' you can't do</p></li>
+	<li><p>Now you're in New York</p></li>
+	<li><p>These streets will make you feel brand new</p></li>
+	<li><p>Big lights will inspire you</p></li>
+	<li><p>Let's hear it for New York, New York,</p></li>
+	<li><p>New York</p></li>
+	<li><p>Lights is blinding, girls need blinders</p></li>
+	<li><p>so they can step out of bounds quick, the sidelines is</p></li>
+	<li><p>lined with casualties, who sip to life casually</p></li>
+	<li><p>then gradually become worse, don't bite the apple eve</p></li>
+	<li><p>Caught up in the in-crowd, now you're in style</p></li>
+	<li><p>Anna Wintour gets cold, in Vogue with your skin out</p></li>
+	<li><p>City of sin, it's a pity on the wind</p></li>
+	<li><p>Good girls gone bad, the city's filled with them</p></li>
+	<li><p>Mami took a bus trip, now she got her bust out</p></li>
+	<li><p>Everybody ride her, just like a bus route</p></li>
+	<li><p>Hail Mary to the city, you're a virgin</p></li>
+	<li><p>And Jesus can't save you, life starts when the church end</p></li>
+	<li><p>Came here for school, graduated to the high life</p></li>
+	<li><p>Ball players, rap stars, addicted to the limelight</p></li>
+	<li><p>MDMA got you feelin' like a champion</p></li>
+	<li><p>The city never sleeps, better slip you an Ambien</p></li>
+	<li><p>New York, concrete jungle where dreams are made of</p></li>
+	<li><p>There's nothin' you can't do</p></li>
+	<li><p>Now you're in New York</p></li>
+	<li><p>These streets will make you feel brand new</p></li>
+	<li><p>Big lights will inspire you</p></li>
+	<li><p>Let's hear it for New York, New York,</p></li>
+	<li><p>New York</p></li>
+	<li><p>One hand in the air for the big city</p></li>
+	<li><p>Street lights, big dreams, all lookin' pretty</p></li>
+	<li><p>No place in the world that could compare</p></li>
+	<li><p>Put your lighters in the air</p></li>
+	<li><p>Everybody say "yeah, yeah, yeah, yeah"</p></li>
+	<li><p>New York, concrete jungle where dreams are made of</p></li>
+	<li><p>There's nothin' you can't do</p></li>
+	<li><p>Now you're in New York</p></li>
+	<li><p>These streets will make you feel brand new</p></li>
+	<li><p>Big lights will inspire you</p></li>
+	<li><p>Let's hear it for New York, New York,</p></li>
+	<li><p>New York</p></li>

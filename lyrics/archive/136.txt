@@ -1,0 +1,62 @@
+
+	<li><p>Uno Dos Tres</p></li>
+	<li><p>It’s been a really really messed up week</p></li>
+	<li><p>Seven days of torture, seven days of bitter</p></li>
+	<li><p>And my girlfriend went and cheated on me</p></li>
+	<li><p>She’s a California dime but it’s time for me to quit her</p></li>
+	<li><p>La la la, whatever, la la la</p></li>
+	<li><p>It doesn’t matter, la la la, oh well, la la la</p></li>
+	<li><p>We’re going at it tonight tonight</p></li>
+	<li><p>There’s a party on the rooftop top of the world</p></li>
+	<li><p>Tonight tonight</p></li>
+	<li><p>And were dancing on the edge of the Hollywood sign</p></li>
+	<li><p>I don’t know if I’ll make it but watch how good I’ll fake it</p></li>
+	<li><p>Its all right, all right, tonight, tonight</p></li>
+	<li><p>I woke up with a strange tattoo</p></li>
+	<li><p>Not sure how I got it, not a dollar in my pocket</p></li>
+	<li><p>And it kinda looks just like you</p></li>
+	<li><p>Mixed with Zach Galifianakis</p></li>
+	<li><p>La la la, whatever, la la la</p></li>
+	<li><p>It doesn’t matter, la la la, oh well, la la la</p></li>
+	<li><p>We’re going at it tonight tonight</p></li>
+	<li><p>There’s a party on the rooftop top of the world</p></li>
+	<li><p>Tonight tonight</p></li>
+	<li><p>And were dancing on the edge of the Hollywood sign</p></li>
+	<li><p>I don’t know if I’ll make it but watch how good I’ll fake it</p></li>
+	<li><p>Its all right, all right, tonight, tonight</p></li>
+	<li><p>You got me singing like</p></li>
+	<li><p>Woah, come on, oh</p></li>
+	<li><p>It doesn’t matter, woah, everybody now, ohh</p></li>
+	<li><p>Just don’t stop let’s keep the beat pumpin’</p></li>
+	<li><p>Keep the beat up, lets drop the beat down</p></li>
+	<li><p>It’s my party dance if I want to</p></li>
+	<li><p>We can get crazy let it all out</p></li>
+	<li><p>Just don’t stop let’s keep the beat pumpin’</p></li>
+	<li><p>Keep the beat up, lets drop the beat down</p></li>
+	<li><p>It’s my party dance if I want to</p></li>
+	<li><p>We can get crazy let it all out</p></li>
+	<li><p>Its you and me and were runnin this town</p></li>
+	<li><p>And its me and you and were shakin the ground</p></li>
+	<li><p>And ain’t nobody gonna tell us to go cause this is our show</p></li>
+	<li><p>Everybody</p></li>
+	<li><p>Woah, come on, ohh, all you animals</p></li>
+	<li><p>Woah, let me hear you now, ohh</p></li>
+	<li><p>Tonight tonight</p></li>
+	<li><p>There’s a party on the rooftop top of the world</p></li>
+	<li><p>Tonight tonight</p></li>
+	<li><p>And were dancing on the edge of the Hollywood sign</p></li>
+	<li><p>I don’t know if I’ll make it but watch how good I’ll fake it</p></li>
+	<li><p>Its all right, all right, tonight, tonight</p></li>
+	<li><p>Its all right, all right, tonight, tonight</p></li>
+	<li><p>Yeah its all right, all right, tonight, tonight</p></li>
+	<li><p>Just singing like</p></li>
+	<li><p>Woah, come on, ohh, all you party people</p></li>
+	<li><p>Woah, all you singletons, ohh, even the white kids</p></li>
+	<li><p>Just don’t stop lets keep the beat pumpin’</p></li>
+	<li><p>Keep the beat up, lets drop the beat down</p></li>
+	<li><p>Its my party dance if I want to</p></li>
+	<li><p>We can get crazy let it all out</p></li>
+	<li><p>Just don’t stop lets keep the beat pumpin’</p></li>
+	<li><p>Keep the beat up, lets drop the beat down</p></li>
+	<li><p>Its my party dance if I want to</p></li>
+	<li><p>We can get crazy let it all out</p></li>
