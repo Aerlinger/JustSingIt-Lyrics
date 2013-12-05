@@ -123,7 +123,7 @@ module JSI
         # Process the CSV data
         begin
           jsi_data = SmarterCSV.process(csv_filename)
-        rescue ArgumentError
+        rescue Exception
           jsi_data = SmarterCSV.process(
             csv_filename,
             file_encoding: "windows-1252",
@@ -138,18 +138,32 @@ module JSI
 
         jsi_data.each do |song_attributes|
           lyrics_file               = Rails.root.join(lyrics_directory + "/#{song_attributes[:id]}_cleaned.jsi")
+          chorus_file               = Rails.root.join(lyrics_directory + "/#{song_attributes[:id]}_chorus.jsi")
+
+          #Rails.logger.info "Processing file: #{lyrics_file}"
+
           song_attributes['lyrics'] = lyrics_file.read
 
           begin
-            song = Song.unscoped.find_or_initialize_by(id: song_attributes[:id])
+            song_attributes['chorus'] = chorus_file.read
+          rescue Errno::ENOENT => e
+            warn("Could not read chorus file: " + e.message)
+          end
+
+          begin
+            song = Song.unscoped.find_or_initialize_by(
+              artist: song_attributes[:artist],
+              title: song_attributes[:name],
+              tier: song_attributes[:tier]
+            )
             song.update_attributes(song_attributes)
 
             if song.valid?
-              Rails.logger.info "Tier #{song.tier} \t" + "Song added to db: [#{song.id}]".colorize(:green) +
+              Rails.logger.info "Song added to db: [#{song.id}]".colorize(:green) +
                                   "\t#{song.artist} ".colorize(:blue) +
-                                  "\t\t\t#{song.name}".colorize(:magenta)
+                                  "\t#{song.name}".colorize(:magenta)
             else
-              Rails.logger.error song.errors.full_messages
+              Rails.logger.error "INVALID: [#{song_attributes[:id]}] Tier: (#{song_attributes[:tier]}) #{song_attributes[:artist]}: #{song_attributes[:name]} => #{song.errors.full_messages}"
             end
           rescue Mysql2::Error => e
             puts e.message
